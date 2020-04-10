@@ -1,0 +1,24 @@
+{
+  "relics": [
+    "Burning Blood",
+    "NeowsBlessing"
+  ],
+  "cards": [
+    {
+      "upgrades": 1,
+      "id": "Demon Form"
+    },
+    {
+      "upgrades": 1,
+      "id": "Spot Weakness"
+    },
+    {
+      "upgrades": 1,
+      "id": "Heavy Blade"
+    },
+    {
+      "upgrades": 1,
+      "id": "Heavy Blade"
+    }
+  ]
+}
